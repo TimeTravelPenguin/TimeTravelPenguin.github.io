@@ -118,9 +118,9 @@ comments:
     clientSecret: # GitHub Application Client Secret
     repository: # GitHub repo
     owner: TimeTravelPenguin # GitHub repo owner
-    admin:
-      TimeTravelPenguin # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
-      # - your GitHub Id
+    admin: TimeTravelPenguin
+    # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
+    # - your GitHub Id
 
   ## Valine
   # please refer to https://valine.js.org/en/ for more info.
