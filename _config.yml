@@ -15,8 +15,8 @@
 ##############################
 text_skin: "dark"
 highlight_theme: "tomorrow-night"
-url: https://timetravelpenguin.github.io/ # the base hostname & protocol for your site e.g. https://www.someone.com
-baseurl: "./index.html" # does not include hostname
+url: https://timetravelpenguin.github.io # the base hostname & protocol for your site e.g. https://www.someone.com
+baseurl: "/" # does not include hostname
 title: TimeTravelPenguin
 description: > # this means to ignore newlines until "Language & timezone"
   Your Site Description
@@ -24,7 +24,7 @@ description: > # this means to ignore newlines until "Language & timezone"
 ## => Language and Timezone
 ##############################
 lang: "en" # the language of your site, default as "en"
-timezone: "AU" # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
+timezone: Australia/Sydney
 
 ## => Author and Social
 ##############################
